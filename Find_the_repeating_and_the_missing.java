@@ -1,3 +1,5 @@
+//https://www.geeksforgeeks.org/find-a-repeating-and-a-missing-number/
+
 import java.util.Hashtable;
 public class MyClass {
     public static void main(String args[]) {
